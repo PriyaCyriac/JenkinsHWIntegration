@@ -1,0 +1,6 @@
+E:\R&D\JenkinsIntegration\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+E:\R&D\JenkinsIntegration\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+E:\R&D\JenkinsIntegration\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\R&D\JenkinsIntegration\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+E:\R&D\JenkinsIntegration\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+E:\R&D\JenkinsIntegration\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
