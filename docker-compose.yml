@@ -1,0 +1,7 @@
+version: '3'
+services:
+  cihelloworld:
+    image: cihelloworld
+    build:
+      context: .\depl
+      dockerfile: Dockerfile
