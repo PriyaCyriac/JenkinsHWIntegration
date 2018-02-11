@@ -10,7 +10,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World - CI Integration Session test checkin 2 ");
+            Console.WriteLine("Hello World - CI Integration welcome");
             Console.ReadLine();
         }
     }
